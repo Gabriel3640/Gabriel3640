@@ -10,6 +10,7 @@
 
 🔶 Learning 🔶
 🟢React.js🟢
+🟡MYSQL🟡
 
 🔶Freelancer🔶
 🔴Image And Video Editor🔴
