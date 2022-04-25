@@ -6,7 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel3640&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
- ## <img  alt="Gabriel1" height="30" width="40" src="https://icongr.am/clarity/check.svg?size=148&color=00b81f"> My name is Gabriel.
+ ## <img  alt="Gabriel1" height="30" width="40" src="https://icongr.am/clarity/check.svg?size=148&color=00b81f"> My name is John.
  ## <img  alt="Gabriel2" height="30" width="40" src="https://icongr.am/clarity/check.svg?size=148&color=00b81f"> I'm a front-end developer, looking for new experiences.
 
 
