@@ -26,10 +26,8 @@
 </div>
 
 # My Links
-![Twitter Follow](https://img.shields.io/twitter/follow/Gabriel84321563?label=Follow)
-[![Linkedin: Gabriel ](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-da-costa-silva-94b144218/)](https://www.linkedin.com/in/gabriel-da-costa-silva-94b144218/)
 ![GitHub followers](https://img.shields.io/github/followers/Gabriel3640?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=Gabriel3640)
+![](https://visitor-badge.glitch.me/badge?page_id=JohnBR82)
 ![NPM](https://img.shields.io/npm/l/create-react-app)
 
 <div> 
