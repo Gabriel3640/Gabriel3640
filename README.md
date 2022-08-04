@@ -26,7 +26,7 @@
 </div>
 
 # My Links
-![GitHub followers](https://img.shields.io/github/followers/Gabriel3640?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/JohnBR82?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=JohnBR82)
 ![NPM](https://img.shields.io/npm/l/create-react-app)
 
