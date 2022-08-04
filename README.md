@@ -31,7 +31,7 @@
 ![NPM](https://img.shields.io/npm/l/create-react-app)
 
 <div> 
-    <a href="https://twitter.com/Gabriel84321563" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+    <a href="https://twitter.com/JohnBR82" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 
  
 </div>
