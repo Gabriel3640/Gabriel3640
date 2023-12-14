@@ -7,7 +7,8 @@
 </div>
 
  ## <img  alt="Gabriel1" height="30" width="40" src="https://icongr.am/clarity/check.svg?size=148&color=00b81f"> My name is Gabriel.
- ## <img  alt="Gabriel2" height="30" width="40" src="https://icongr.am/clarity/check.svg?size=148&color=00b81f"> I'm a front-end developer, looking for new experiences.
+  ## <img  alt="Gabriel2" height="30" width="40" src="https://icongr.am/clarity/check.svg?size=148&color=00b81f"> You can call me John, my nickname
+ ## <img  alt="Gabriel3" height="30" width="40" src="https://icongr.am/clarity/check.svg?size=148&color=00b81f"> I'm a front-end developer, looking for new experiences.
 
 
   
